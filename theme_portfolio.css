@@ -1,0 +1,23 @@
+.ancho_fijo{
+	width: 289px;
+	margin-bottom: 4px;
+}
+.navegador{
+	margin-left: 300px;
+}
+.padding_left{
+	padding-left: 0px;
+}
+.padding_top{
+	padding-top: 100px;
+
+}
+#about{
+	margin-top: 100px;
+}
+#work{
+	margin-top: 100px;
+}
+#other{
+	margin-top: 100px;
+}
